@@ -1,6 +1,6 @@
 # Password Genarator
 
-
+[Day Planner Demo Video](https://drive.google.com/file/d/11CZ9infMqpM97DwG66dvbOJZkGOzeTkJ/view)
 * Created the following files: `index.html`,`script.js`,`reset.css`, `style.css`.
 
 ** Features
